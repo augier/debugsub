@@ -7,7 +7,7 @@ A very sketchy way to listen into a pubsub subscription.
 * Go
 * Dep
 
-# Usage
+## Usage
 
 `dep ensure`
 
